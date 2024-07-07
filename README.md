@@ -1,13 +1,3 @@
-### 👋 Hi there
-
-- 🔭 I’m currently working on a  Discord Bot in Python
-- 🌱 I’m currently learning Typescript and Javascript
-- 📫 Reach me on: Discord and Twitter
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i like kiwis
-
-### 💬 Contact me
-![](https://discord.c99.nl/widget/theme-4/733403498766401554.png)
 
 ### 🗂️ GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwious&show_icons=true&theme=dark)
