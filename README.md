@@ -1,7 +1,8 @@
 ![Alt text](https://media.discordapp.net/attachments/971477760142880783/1065201542099111946/ahuet.gif?ex=668d033e&is=668bb1be&hm=a9414afca6eb035bcc27240890cce98f659344952515eb86380fc8d2e1fab4ec&)
+<!--
 ### 🗂️ GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwious&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiwious&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 
 <!--
