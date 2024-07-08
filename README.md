@@ -1,4 +1,4 @@
-![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://media.discordapp.net/attachments/733405117000319016/1259970476151799929/dxfcvbimage.png?ex=668d9e72&is=668c4cf2&hm=28e3172a9fd4c54d7c3947b4b88ac61bd90dfb19e3e0e93787c6002d30e877ec&=&format=webp&quality=lossless))
+![Alt text]([[https://assets.digitalocean.com/articles/alligator/boo.svg](https://media.discordapp.net/attachments/733405117000319016/1259970476151799929/dxfcvbimage.png?ex=668d9e72&is=668c4cf2&hm=28e3172a9fd4c54d7c3947b4b88ac61bd90dfb19e3e0e93787c6002d30e877ec&=&format=webp&quality=lossless)](https://cdn.discordapp.com/attachments/733405117000319016/1259970902368714842/Thumbnail.png?ex=668d9ed8&is=668c4d58&hm=a1124caf12941816ab51d34b2e6e20f2db44074c34477876bfbb11a8deaee87b&))
 ### 🗂️ GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwious&show_icons=true&theme=dark)
 
