@@ -1,4 +1,4 @@
-![Alt text](https://media.discordapp.net/attachments/971477760142880783/1065201542099111946/ahuet.gif?ex=668d033e&is=668bb1be&hm=a9414afca6eb035bcc27240890cce98f659344952515eb86380fc8d2e1fab4ec&)
+![Alt text](https://media.discordapp.net/attachments/1131608325356789804/1152250034696486942/1694568820810840.gif?ex=668d4978&is=668bf7f8&hm=3069e56ccf934e90d405e44dba0f1863039441266988af360ce344e4bdd8b0f1&)
 <!--
 ### 🗂️ GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwious&show_icons=true&theme=dark)
