@@ -1,4 +1,6 @@
 ![Alt text](https://tenor.com/view/cat-pass-down-gif-12523640702135139778.gif)
+![Alt text](https://tenor.com/view/mewing-cat-mewing-mewing-meme-cat-staring-cat-gif-6979404450990708267.gif)
+
 <!--
 ### 🗂️ GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwious&show_icons=true&theme=dark)
