@@ -1,4 +1,4 @@
-![Alt text](https://media.discordapp.net/attachments/1131608325356789804/1152250034696486942/1694568820810840.gif?ex=668d4978&is=668bf7f8&hm=3069e56ccf934e90d405e44dba0f1863039441266988af360ce344e4bdd8b0f1&)
+![Alt text](https://tenor.com/view/cat-pass-down-gif-12523640702135139778)
 <!--
 ### 🗂️ GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwious&show_icons=true&theme=dark)
